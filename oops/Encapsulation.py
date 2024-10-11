@@ -12,3 +12,6 @@ class Students:
 s1=Students("Abc",[2,3,5])
 print(s1.avg())
 
+def tryme():
+    print("tried")
+    print("changes here")
